@@ -1,9 +1,9 @@
 # Edit these site settings
 # ------------------------------------------
-title:             AnalystX
+title:             Centre of Excellence
 email:             England.analystx@nhs.net
 author:            AnalystX
-description:       "Welcome to AnalystX"
+description:       "Centre of Excellence"
 url:               "https://nhs-analystx.github.io/"
 baseurl:           "analystx/"
 github_username:   nhs-analystx
