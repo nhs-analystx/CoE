@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: box leads, teams and strategic partners
+title: Team and strategic partners
 ---
 
 <h2>AnalystX Academy</h2>
