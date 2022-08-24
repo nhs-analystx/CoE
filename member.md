@@ -3,16 +3,14 @@ layout: default
 title: box leads, teams and strategic partners
 ---
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h2>
+<h2>AnalystX Academy</h2>
 <p>
-  The Centre of Excellence will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
+  The AnalystX Academy will upload new learning material from organisation periodically. This will ensure new learning material is available for our learners and community members. 
 </p>
 <h2>Current Members:</h2>
 <ul>
   <li><b>Suki Panesar</b> - NHS England</li>
   <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>Simon Snowden</b> - NHS England</li>
-  <li><b>Jiri Chard</b> - NHS England</li>
   <li><b>Sarah Blundell</b> - NHS England</li>
    <li><b>Victroia Cornelius</b> - NHS England</li>
   <li><b>Alex Bosche</b> - NHS England</li>
